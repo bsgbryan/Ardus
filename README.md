@@ -134,6 +134,10 @@ process.on('exit', function() {
 });
 ```
 
+# Reporting issues
+
+I know you'll find issues, report them [here](https://github.com/bsgbryan/Ardus/issues). _KTHX_
+
 # Contributing
 
 If there's anything you want to add/change, please feel free!
