@@ -134,7 +134,7 @@ process.on('exit', function() {
 });
 ```
 
-# Constributing
+# Contributing
 
 If there's anything you want to add/change, please feel free!
 
