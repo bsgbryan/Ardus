@@ -1,0 +1,9 @@
+{
+  "name":        "ardus",
+  "description": "An easy to use collection of nice features (all related to profiling for now)",
+	"keywords": [ "decorator" , "utility" , "profiling" ],
+  "version":     "0.3.0",
+	"repository": "https://github.com/bsgbryan/ardus",
+  "author":      "Bryan Maynard <bsgbryan@gmail.com>",
+  "main":        "./lib/ardus"
+}
