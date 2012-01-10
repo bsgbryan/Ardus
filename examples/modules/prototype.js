@@ -1,4 +1,4 @@
-var Bob = function (name) {
+function Bob(name) {
   this.name = name;
 };
 
