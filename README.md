@@ -145,7 +145,7 @@ If there's anything you want to add/change, please feel free!
 Simply:
 
 * Fork Ardus
-* Create a topic local branch - git checkout -b topic_branch
+* Create a local branch to work on - git checkout -b topic_branch
 * Push to your local branch - git push origin topic_branch
 * Create a pull request: github.com/USERNAME/Ardus/pull/new/master
 * [Sing](http://g-ecx.images-amazon.com/images/G/01/dvd/lionsgate/barney/B_Sing_Dance_6_lg.jpg), [drink](http://blogs.bostonmagazine.com/chowder/files/2011/04/IMG_0174.jpg), and be happy
