@@ -1,10 +1,11 @@
 {
-  "name"        : "ardus",
-  "description" : "An easy to use collection of nice features (all related to profiling for now)",
-	"keywords"    : [ "decorator" , "utility" , "profiling" ],
-  "version"     : "0.4.0",
-	"repository"  : "https://github.com/bsgbryan/Ardus",
-  "author"      : "Bryan Maynard <bsgbryan@gmail.com>",
-  "main"        : "./lib/ardus",
-  "bugs"        : { "url": "https://github.com/bsgbryan/Ardus/issues" }
+  "name"         : "ardus",
+  "description"  : "An easy to use collection of nice features (all related to profiling for now)",
+	"keywords"     : [ "decorator" , "utility" , "profiling" ],
+  "version"      : "0.4.0",
+	"repository"   : "https://github.com/bsgbryan/Ardus",
+  "author"       : "Bryan Maynard <bsgbryan@gmail.com>",
+  "main"         : "./lib/ardus",
+  "bugs"         : { "url": "https://github.com/bsgbryan/Ardus/issues" },
+  "dependencies" : { "microtime" : "*" }
 }
