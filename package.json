@@ -2,7 +2,7 @@
   "name"         : "ardus",
   "description"  : "An easy to use collection of nice features (all related to profiling for now)",
 	"keywords"     : [ "decorator" , "utility" , "profiling" ],
-  "version"      : "0.5.2",
+  "version"      : "0.5.3",
   "homepage"     : "https://github.com/bsgbryan/Ardus",
 	"repository"   : "https://github.com/bsgbryan/Ardus",
   "author"       : "Bryan Maynard <bsgbryan@gmail.com>",
