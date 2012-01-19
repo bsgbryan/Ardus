@@ -4,9 +4,7 @@ ardus.global('profiler').profile()
 
 var _ = require('underscore')
 
-console.log("\nUNDERSCORE = ", _)
-
-_.mixin({ foo: function foo() { console.log('Hi!') } })
+_.mixin({ foo: function () { console.log('Hi!') } })
 
 _.foo()
 
