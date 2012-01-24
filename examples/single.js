@@ -6,7 +6,7 @@ var ardus    = require('../lib/ardus'),
     person   = require('./modules/profile'),
 
 // Wrap a function
-    response = profile(person.callback),
+    response = profile.wrap(person.callback),
 
     lets     = person.doSomething;
 

@@ -11,6 +11,8 @@ function respond(result) {
     console.log(result += '.');
 }
 
+// console.log("\nlets ", lets)
+
 lets('Go BOWLING', respond);
 
 lets('Swim', response);
