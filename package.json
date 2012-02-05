@@ -1,8 +1,8 @@
 {
   "name"         : "ardus",
-  "description"  : "An easy to use collection of nice features (all related to profiling for now)",
+  "description"  : "The mother of all profilers",
 	"keywords"     : [ "decorator" , "utility" , "profiling" ],
-  "version"      : "0.5.6",
+  "version"      : "0.6.0",
   "homepage"     : "https://github.com/bsgbryan/Ardus",
 	"repository"   : "https://github.com/bsgbryan/Ardus",
   "author"       : "Bryan Maynard <bsgbryan@gmail.com>",
