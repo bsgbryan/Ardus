@@ -8,7 +8,7 @@
   "author"       : "Bryan Maynard <bsgbryan@gmail.com>",
   "main"         : "./lib/ardus",
   "bugs"         : { "url": "https://github.com/bsgbryan/Ardus/issues" },
-  "dependencies" : { "microtime" : "*", "doctor" : "*" },
+  "dependencies" : { "microtime" : "*", "doctor" : "*", "mkdirp" : "*" },
   
   "devDependencies" : { "tap" : "*" , "underscore" : "*" }
 }
